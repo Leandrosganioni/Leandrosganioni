@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leandro Sganioni!
+## Olá! Bem-vindo(a) ao meu GitHub!
 
 
 - 📘 Cursando: Análise e Desenvolvimento de Sistemas;
