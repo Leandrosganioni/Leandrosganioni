@@ -9,8 +9,10 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento web com P
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="40" alt="R" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="40" alt="PHP" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="40" alt="Laravel" />
