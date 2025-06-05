@@ -10,7 +10,7 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento web com P
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
@@ -22,7 +22,8 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento web com P
 - Automação de processos com Python e R  
 - Desenvolvimento web com Flask  
 - Integração de sistemas e APIs  
-- Visualização e tratamento de dados  
+- Visualização e tratamento de dados
+- Machine Learning  
 
 ## Estatísticas
 
