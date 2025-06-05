@@ -21,8 +21,8 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento web com P
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="40" alt="PHP" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="40" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Dark.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap-Dark.svg" width="40" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/js-Dark.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/bootstrap-Dark.svg" width="40" alt="Bootstrap" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git-Dark.svg" width="40" alt="Git" />
 </p>
 
